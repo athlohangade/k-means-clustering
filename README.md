@@ -19,6 +19,6 @@ Given *k*, the K-Means algorithm works as follows :
 3.  Re-compute the centroids using the current cluster memberships.
 4.  If the convergence criterion is not met, repeat steps 2 and 3. We can say the algorithm has converged if there is no re-assignment of data points to different clusters in a particular iteration.
 
-For more information on K-Means algorithm, refer [wiki](https://en.wikipedia.org/wiki/K-means_clustering). For an explanation with a working example, refer `example.pdf`.
+For more information on K-Means clustering algorithm, refer [wiki](https://en.wikipedia.org/wiki/K-means_clustering). For an explanation with a working example, refer `example.pdf`.
 
 **Requirements** : MatplotLib, Scikit-learn
